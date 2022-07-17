@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **JS,PHP,MYSQL,UML**
 
-- 📫 How to reach me **https://fb/messaoud.kayou.96**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
