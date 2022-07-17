@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm belhadjami messaoud</h1>
-<h3 align="center">A passionate frontend developer from Aleria</h3>
+<h3 align="center">I'm frontend developer from Aleria</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calem48&label=Profile%20views&color=0e75b6&style=flat" alt="calem48" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JS,PHP,MYSQL,UML**
 
-- 📫 How to reach me **https://www.facebook.com/messaoud.kayou.96**
+- 📫 How to reach me **https://fb/messaoud.kayou.96**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
