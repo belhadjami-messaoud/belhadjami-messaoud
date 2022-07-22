@@ -5,12 +5,11 @@
 <h3 align="center">I'm frontend developer from Algeria</h3>
 
 
----
+
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" />
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=calem48&label=Profile%20views&color=0e75b6&style=flat"
-        alt="calem48" />
+    <img src="https://komarev.com/ghpvc/?username=calem48&label=Profile%20views&color=0e75b6&style=flat" alt="calem48" />
 </p>
 
 - 🔭 I’m currently working on **something Interesting**
@@ -23,9 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://fb.com/messaoud.kayou.96" target="blank">
-        <img align="center"
+        <img 
+            align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="messaoud.kayou.96" height="30" width="40" />
+            alt="messaoud.kayou.96" height="30" width="40"
+        />
     </a>
     <a href="https://instagram.com/misso.belhadj" target="blank">
         <img align="center"
