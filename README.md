@@ -94,10 +94,7 @@
         alt="calem48" />
 </p>
 
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=calem48&show_icons=true&locale=en"
-        alt="calem48" />
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=calem48&show_icons=true&locale=en" alt="calem48" />
 </p>
 
 <p>
