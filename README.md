@@ -94,24 +94,16 @@
 
 </br>
 
-<p>
+<div>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=belhadjami-messaoud&show_icons=true&locale=en&layout=compact"
         alt="calem48" />
-</p>
+</div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<p>
+<div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=belhadjami-messaoud&show_icons=true&locale=en" alt="belhadjami-messaoud" />
-</p>
+</div>
 
-<p>
+<div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belhadjami-messaoud&" alt="belhadjami-messaoud" />
-</p>
+</div>
