@@ -4,6 +4,11 @@
 <h1 align="center">Hi 👋, I'm belhadjami messaoud</h1>
 <h3 align="center">I'm frontend developer from Algeria</h3>
 
+</br>
+</br>
+</br>
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -35,7 +40,11 @@
     </a>
 </p>
 
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,7 +89,10 @@
   </a>
 </p>
 
+</br>
+</br>
 
+</br>
 
 <p>
     <img align="left"
@@ -88,7 +100,15 @@
         alt="calem48" />
 </p>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=belhadjami-messaoud&show_icons=true&locale=en" alt="belhadjami-messaoud" />
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=belhadjami-messaoud&show_icons=true&locale=en" alt="belhadjami-messaoud" />
 </p>
 
 <p>
