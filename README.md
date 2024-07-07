@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm belhadjami messaoud</h1>
-<h3 align="center">I'm frontend developer from Algeria</h3>
+<h3 align="center">I'm frontend and backend developer from Algeria</h3>
 
 </br>
 </br>
